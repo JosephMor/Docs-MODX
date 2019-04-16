@@ -16,11 +16,7 @@ The new documentation (content) should allow:
 
 The beauty of markdown is that it is independent from specific technologies or tools. **This repository therefore only has the markdown content**. How this content is served up to users, is handled in a [different repository](https://github.com/Mark-H/DocsApp).
 
-## Discussion
-
-Please feel free to open an issue for bad markdown conversions or discussion points. There is also a relevant #documentation channel on the [MODX Community Slack](https://modx.org).
-
-## The Conversion (Old)
+# bfhejrfb rfherhjf ehjrgfhje rfgjhergf jehrgfkjhergfer
 
 The current [docs site](https://docs.modx.com) is powered by MODX, with a front-end editing utility. Documentation content is stored as HTML, while the goal is to use Markdown instead.
  
