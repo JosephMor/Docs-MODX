@@ -144,6 +144,7 @@ $c->limit(5,5); // limit, offset
 $boxes = $xpdo->getCollection('Box',$c);
 ```
 
+
  You can see that the sortby and where functions can take dot syntax on their parameters; they can prefix their columns with alias – sometimes they have to do this to prevent collisions!
 
  More information on [xPDOQuery](extending-modx/xpdo/class-reference/xpdoquery "xPDOQuery") can be found [here](extending-modx/xpdo/class-reference/xpdoquery "xPDOQuery").
